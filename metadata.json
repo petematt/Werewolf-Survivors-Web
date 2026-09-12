@@ -1,0 +1,6 @@
+{
+  "name": "Werewolf Survivors",
+  "description": "Mobile-friendly roguelite survival game featuring day/night werewolf transformations, dynamic virtual joystick, weapon synergies, and persistent upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
